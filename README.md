@@ -7,5 +7,6 @@ just a simple code to get weather forecast by using Yahoo! Weather API
 4. Press enter to show the result
 5. Completed
 
+#addition : You can preview the result by clicking the just_it.PNG file 
 
 
