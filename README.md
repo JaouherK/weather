@@ -1,5 +1,5 @@
 # weather
-just a simple code to get weather forecast by using Yahoo! Weather API 
+Just a simple code to get weather forecast by using Yahoo! Weather API 
 
 1. First, put the index.php file into your htdocs directory (Laptop/PC)
 2. Turn on Appache & MySQL in your XAMPP 
